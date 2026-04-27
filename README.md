@@ -5,7 +5,7 @@
 <h3>👋 About Me</h3>
 
 - 🔭 I’m currently working on: **Tremego Craft**
-- 🌱 I’m currently learning: **C#, React**
+- 🌱 I’m currently learning: **C#, Livewire**
 - 😄 Pronouns: He/Him
 
 <h3>🛠️ My Skills</h3>
