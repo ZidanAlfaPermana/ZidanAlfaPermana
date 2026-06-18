@@ -5,7 +5,7 @@
 <h3>👋 About Me</h3>
 
 - 🔭 I’m currently working on: **Tremego Craft**
-- 🌱 I’m currently learning: **C#, Livewire**
+- 🌱 I’m currently learning: **C#**
 - 😄 Pronouns: He/Him
 
 <h3>🛠️ My Skills</h3>
@@ -25,5 +25,5 @@
 
 <h3>💬 Contact Me</h3>
 
-- **📧 Gmail:** magmaz3637@gmail.com
+- **📧 Gmail:** zidanalfa18@gmail.com
 - **📷 Instagram:** [MagmaZ3637](https://www.instagram.com/magmaz36376/)
