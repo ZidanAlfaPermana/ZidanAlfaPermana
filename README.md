@@ -1,6 +1,6 @@
 <h1 align="center">👋 Halo Saya Zidan Alfa Permana</h2>
 
-<h4 align="center">Saya adalah full stack developer, beginner game developer dan plugin pocketmine developer. Saya merupakan siswa dari SMKN 5 Malang</h4>
+<h4 align="center">Saya adalah Laravel full stack developer, beginner game developer dan plugin pocketmine developer. Saya merupakan siswa dari SMKN 5 Malang</h4>
 
 <h3>👋 About Me</h3>
 
