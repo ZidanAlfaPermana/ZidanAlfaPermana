@@ -3,7 +3,7 @@
 
   <p><b>Laravel Full-Stack Developer  | Pocketmine Plugin Developer</b></p>
 
-  <p>Saya merupakan siswa dari <b>SMKN 5 Malang</b> yang memiliki antusiasme tinggi dalam pengembangan web, pengelolaan database, dan pembuatan game.</p>
+  <p>Saya merupakan siswa dari <b>SMKN 5 Malang</b> yang memiliki antusiasme tinggi dalam pengembangan web, pengelolaan database, dan pembuatan plugin game.</p>
 </div>
 
 ---
