@@ -27,7 +27,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-zidan.vercel.app/api?username=ZidanAlfaPermana&show_icons=true&theme=prussian&hide_border=true&include_all_commits=true&count_private=true" alt="Statistik GitHub Zidan" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZidanAlfaPermana&theme=prussian&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-zidan.vercel.app/?user=ZidanAlfaPermana&theme=prussian&hide_border=true" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
