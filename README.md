@@ -1,29 +1,46 @@
-<h1 align="center">👋 Halo Saya Zidan Alfa Permana</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&lines=Halo,+Saya+Zidan+Alfa+Permana!+:D;Laravel+Full-Stack+Developer;Pocketmine+Plugin+Developer" alt="Typing Animation" />
 
-<h4 align="center">Saya adalah Laravel full stack developer, beginner game developer dan plugin pocketmine developer. Saya merupakan siswa dari SMKN 5 Malang</h4>
+  <p><b>Laravel Full-Stack Developer  | Pocketmine Plugin Developer</b></p>
 
-<h3>👋 About Me</h3>
-
-- 🔭 I’m currently working on: **Tremego Craft**
-- 🌱 I’m currently learning: **C#**
-- 😄 Pronouns: He/Him
-
-<h3>🛠️ My Skills</h3>
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40px">
+  <p>Saya merupakan siswa dari <b>SMKN 5 Malang</b> yang memiliki antusiasme tinggi dalam pengembangan web, pengelolaan database, dan pembuatan game.</p>
 </div>
 
-<h3>🔥 My Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=MagmaZ3637&show_icons=true&theme=prussian" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagmaZ3637&layout=donut-vertical&theme=prussian" />
+---
 
-<h3>💬 Contact Me</h3>
+### 👨‍💻 Tentang Saya
 
-- **📧 Gmail:** zidanalfa18@gmail.com
-- **📷 Instagram:** [MagmaZ3637](https://www.instagram.com/magmaz36376/)
+- 🔭 Saat ini sedang mengerjakan: **Tremego Craft**
+- 🌱 Saat ini sedang mempelajari: **C#**
+- ⚡ Fokus pengembangan: Membangun backend dengan **Laravel**.
+- 😄 Pronouns: He/Him
+
+### 🛠️ Keahlian & Teknologi
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,tailwind,mysql,postgresql,vscode,phpstorm,github&perline=10" alt="My Skills" />
+  </a>
+</div>
+
+### 🔥 Statistik GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats-zidan.vercel.app/api?username=ZidanAlfaPermana&show_icons=true&theme=prussian&hide_border=true&include_all_commits=true&count_private=true" alt="Statistik GitHub Zidan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZidanAlfaPermana&theme=prussian&hide_border=true" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats-zidan.vercel.app/api/top-langs/?username=ZidanAlfaPermana&layout=compact&theme=prussian&hide_border=true" alt="Bahasa Pemrograman Teratas" />
+</div>
+
+### 💬 Hubungi Saya
+
+<div align="center">
+  <a href="mailto:zidanalfa18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/zidanalfapermana2008/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
